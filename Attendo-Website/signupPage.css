@@ -1,0 +1,63 @@
+form img {
+    width: 35%;
+}
+
+body {
+    background-color: #123255;
+}
+
+.d1 {
+    background-color: #191919;
+    margin-top: 1.5rem;
+    border-radius: 10px;
+    width: 600px;
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    vertical-align: middle;
+}
+
+.d2 input {
+    border: 0;
+    text-align: center;
+    border: 2px solid #81bbd4;
+}
+
+.d2 small {
+    font-size: 0.6rem;
+    color: rgb(160, 160, 160);
+}
+
+.inputs {
+    border-radius: 20px;
+    margin: auto;
+    min-width: 380px;
+}
+
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+@media (min-width: 700px) {
+    .bd-placeholder-img-lg {
+        font-size: 3.5rem;
+    }
+}
+
+
+.inputs1 {
+    display: inline-block;
+    padding: 1px;
+    margin: 0 auto;
+    min-width: 210px;
+}
+
+.inputs2 {
+    border-radius: 20px;
+    margin: auto;
+}
